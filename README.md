@@ -1,4 +1,4 @@
-# Attemdence_system
+# Attendence_system
 This is simple attendance system  . Using  bootstrap 4.  
 
 To Use this project
